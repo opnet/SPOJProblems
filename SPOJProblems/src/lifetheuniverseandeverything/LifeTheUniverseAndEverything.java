@@ -25,9 +25,7 @@ public class LifeTheUniverseAndEverything
 		boolean found = false;
 		
 		while(!found)
-		{
-			System.out.print("Enter a number: ");
-			
+		{			
 			try
 			{
 				input = Integer.parseInt(stdin.readLine());
